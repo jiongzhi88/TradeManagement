@@ -1,0 +1,2 @@
+# TradeManagement
+Currency Trading Platform
